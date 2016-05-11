@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Abstract](abstract.md)
-* Platform
+* [Platform](platform.md)
 
