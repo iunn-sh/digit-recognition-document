@@ -3,5 +3,5 @@
 * [Introduction](README.md)
 * [Abstract](abstract.md)
 * [Platform](platform.md)
-* Features
+* [Features](features.md)
 
