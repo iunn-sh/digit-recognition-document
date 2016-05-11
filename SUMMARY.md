@@ -5,5 +5,5 @@
 * [Platform](platform.md)
 * [Features](features.md)
 * [Models](models.md)
-* Training Process
+* [Training Process](training_process.md)
 
