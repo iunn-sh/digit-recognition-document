@@ -1,7 +1,7 @@
 # Features
 (Including the description and generating method of each feature)
 
-![train/00601459](./gitbook/images/00601459.tiff)
+
 
 ## Raw Data
 Read data byte-by-byte then save as csv file
