@@ -3,7 +3,7 @@
 
 - Training computation: logits + cross-entropy loss.
 - Use simple momentum for the optimization of minimize loss.
-- softmax regression
+- softmax regression.
 
 1. each traing batch size 50
 2. training steps = 40 * 10000 / 50
