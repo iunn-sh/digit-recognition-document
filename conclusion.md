@@ -26,7 +26,7 @@
     	<td>-0.05897</td>
     </tr>
     <tr>
-    	<td>LeNet-5-like CNN with deskew traing data and non-deskew traing data </td>
+    	<td>LeNet-5-like CNN with deskew training data and non-deskew training data </td>
     	<td>-0.076876</td>
     </tr>
     <tr>
