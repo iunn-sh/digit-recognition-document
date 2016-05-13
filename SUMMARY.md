@@ -8,4 +8,3 @@
 * [Training Process](training_process.md)
 * [Conclusion](conclusion.md)
 * [Reference](reference.md)
-
